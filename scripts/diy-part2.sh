@@ -10,7 +10,7 @@
 # Description: OpenWrt DIY script part 2 (After Update feeds)
 #
 
-# 修改openwrt登陆地址,把下面的 192.168.100.1 修改成你想要的就可以了
+# 修改openwrt登陆地址,把下面的 192.168.1.1 修改成你想要的就可以了
 # sed -i 's/192.168.1.1/192.168.100.1/g' package/base-files/files/bin/config_generate
 
 # 加入作者信息
